@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dhii\\LoopMachine\\": "src"
+            "Dhii\\Machine\\": "src"
         }
     }
 }
